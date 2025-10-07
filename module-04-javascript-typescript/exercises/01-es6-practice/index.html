@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ES6 Features Practice</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 { color: #333; }
+        .exercise {
+            margin: 30px 0;
+            padding: 20px;
+            background: #f9f9f9;
+            border-left: 4px solid #667eea;
+        }
+        .exercise h3 {
+            margin-top: 0;
+            color: #667eea;
+        }
+        button {
+            padding: 10px 20px;
+            background: #667eea;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            margin: 5px;
+        }
+        button:hover { background: #5568d3; }
+        .output {
+            background: #333;
+            color: #0f0;
+            padding: 15px;
+            border-radius: 5px;
+            font-family: monospace;
+            margin-top: 10px;
+            min-height: 50px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>ES6 Features Practice</h1>
+        <p>Open the browser console (F12) and check script.js to complete the exercises!</p>
+
+        <div class="exercise">
+            <h3>Exercise 1: Arrow Functions</h3>
+            <button id="test-arrow">Test Arrow Functions</button>
+            <div class="output" id="output-1"></div>
+        </div>
+
+        <div class="exercise">
+            <h3>Exercise 2: Destructuring</h3>
+            <button id="test-destructuring">Test Destructuring</button>
+            <div class="output" id="output-2"></div>
+        </div>
+
+        <div class="exercise">
+            <h3>Exercise 3: Spread Operator</h3>
+            <button id="test-spread">Test Spread</button>
+            <div class="output" id="output-3"></div>
+        </div>
+
+        <div class="exercise">
+            <h3>Exercise 4: Template Literals</h3>
+            <button id="test-template">Test Template Literals</button>
+            <div class="output" id="output-4"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
