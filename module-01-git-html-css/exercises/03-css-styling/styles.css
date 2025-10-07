@@ -1,0 +1,65 @@
+/* TODO: Set a background color for the body */
+body {
+
+}
+
+/* TODO: Style the card container */
+.card {
+    /* Add a max-width so it doesn't get too wide */
+
+    /* Center it with margin: 0 auto */
+
+    /* Add padding inside the card */
+
+    /* Add a background color */
+
+    /* Add a border */
+
+}
+
+/* TODO: Style the h1 heading */
+h1 {
+    /* Change the color */
+
+    /* Change the font size if you want */
+
+}
+
+/* TODO: Style the h2 headings */
+h2 {
+    /* Change the color */
+
+}
+
+/* TODO: Style paragraphs */
+p {
+    /* Add line-height for readability (try 1.6) */
+
+    /* Change the color if you want */
+
+}
+
+/* TODO: Style the intro paragraph specifically */
+.intro {
+    /* Make it stand out - maybe larger font or different color */
+
+}
+
+/* TODO: Style links */
+a {
+    /* Change the color */
+
+    /* Remove underline with text-decoration: none; or keep it */
+
+}
+
+/* BONUS: Add a hover effect for links */
+a:hover {
+
+}
+
+/* TODO: Style list items if you want */
+li {
+    /* Add some margin-bottom for spacing */
+
+}
