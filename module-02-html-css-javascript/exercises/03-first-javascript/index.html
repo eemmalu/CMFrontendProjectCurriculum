@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Button Click Counter</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            margin: 0;
+            color: white;
+        }
+
+        .container {
+            background-color: rgba(255, 255, 255, 0.1);
+            padding: 3rem;
+            border-radius: 20px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+            text-align: center;
+            backdrop-filter: blur(10px);
+        }
+
+        h1 {
+            margin-bottom: 2rem;
+            font-size: 2rem;
+        }
+
+        #count-display {
+            font-size: 4rem;
+            font-weight: bold;
+            margin: 2rem 0;
+            padding: 1rem;
+            background-color: rgba(255, 255, 255, 0.2);
+            border-radius: 10px;
+            min-width: 200px;
+        }
+
+        button {
+            background-color: #fff;
+            color: #667eea;
+            border: none;
+            padding: 1rem 2rem;
+            font-size: 1.2rem;
+            border-radius: 50px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: transform 0.2s, box-shadow 0.2s;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+        }
+
+        button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+        }
+
+        button:active {
+            transform: translateY(0);
+        }
+
+        .instructions {
+            margin-top: 2rem;
+            font-size: 0.9rem;
+            opacity: 0.8;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Button Click Counter</h1>
+
+        <div id="count-display">Clicks: 0</div>
+
+        <button id="click-button">Click Me!</button>
+
+        <p class="instructions">Open script.js and write code to make the counter work!</p>
+    </div>
+
+    <!-- Link to JavaScript file -->
+    <script src="script.js"></script>
+</body>
+</html>
