@@ -2,7 +2,7 @@
 
 An interactive, test-driven curriculum for teaching modern web development to middle school students (grades 6-9).
 
-## 🎯 Course Overview
+## Course Overview
 
 This 16-week course introduces students to frontend web development through hands-on, self-paced modules. Students will progress from HTML and CSS basics to building interactive React applications with TypeScript and modern tooling.
 
@@ -12,7 +12,7 @@ This 16-week course introduces students to frontend web development through hand
 
 **Format:** 1.5 hour weekly classes, 1-2 students per instructor
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 - **React 18+** - Modern UI framework
 - **TypeScript** - Type-safe JavaScript
@@ -23,7 +23,7 @@ This 16-week course introduces students to frontend web development through hand
 - **Lucide React** - Beautiful icon library
 - **Jest** - Automated testing framework
 
-## 📚 Prerequisites
+## Prerequisites
 
 Students should have:
 - Basic programming experience (Python or C++)
@@ -31,7 +31,7 @@ Students should have:
 - Ability to use a text editor and terminal
 - No web development experience required!
 
-## 🚀 Getting Started
+## Getting Started
 
 1. **Fork this repository** to your GitHub account
 2. **Clone your fork** to your computer
@@ -39,7 +39,7 @@ Students should have:
 4. Run `npm install` to install dependencies
 5. Start learning with [Module 1](./module-01-git-html-css/)!
 
-## 📖 Course Modules
+## Course Modules
 
 | Module | Topics | Duration |
 |--------|--------|----------|
@@ -52,7 +52,7 @@ Students should have:
 | [Module 7: Tailwind CSS](./module-07-tailwind/) | Utility-first styling, responsive design patterns | 1-2 weeks |
 | [Module 8: UI Components & APIs](./module-08-shadcn-fetch/) | shadcn/ui, data fetching, routing | 1-2 weeks |
 
-## ✅ How to Complete Modules
+## How to Complete Modules
 
 Each module contains:
 - **Lessons** - Concepts, examples, and explanations
@@ -78,22 +78,22 @@ npm test:module-02
 3. Commit and push your changes
 4. Your teacher will review your work on GitHub
 
-## 📚 Resources
+## Resources
 
 - [Cheatsheets](./resources/cheatsheets/) - Quick reference guides
 - [Common Errors](./resources/common-errors.md) - Troubleshooting help
 - [Helpful Links](./resources/helpful-links.md) - External learning resources
 - [Glossary](./resources/glossary.md) - Technical term definitions
 
-## 🎓 Assessment
+## Assessment
 
 Your progress is evaluated based on:
-- ✅ Passing automated tests for homework assignments
-- 💬 Code quality and following best practices
-- 🚀 Completing bonus challenges (optional)
-- 🛠️ Contributions to the final project
+- Passing automated tests for homework assignments
+- Code quality and following best practices
+- Completing bonus challenges (optional)
+- Contributions to the final project
 
-## 💡 Getting Help
+##  Getting Help
 
 If you get stuck:
 1. Check the [Common Errors](./resources/common-errors.md) guide
@@ -101,11 +101,11 @@ If you get stuck:
 3. Ask your instructor during class
 4. Look at the [Helpful Links](./resources/helpful-links.md) for additional resources
 
-## 🎯 After Completing the Curriculum
+## After Completing the Curriculum
 
 After finishing all 8 modules, you'll transition to working on a real production codebase! See the [Final Project Guide](./final-project/) for details.
 
-## 📝 License
+## License
 
 This curriculum is open source and available for educational use.
 
