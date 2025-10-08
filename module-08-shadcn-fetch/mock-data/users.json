@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Alex Johnson",
+    "email": "alex.johnson@example.com",
+    "role": "Administrator",
+    "avatar": "https://i.pravatar.cc/150?img=1"
+  },
+  {
+    "id": 2,
+    "name": "Sarah Williams",
+    "email": "sarah.williams@example.com",
+    "role": "Developer",
+    "avatar": "https://i.pravatar.cc/150?img=2"
+  },
+  {
+    "id": 3,
+    "name": "Michael Chen",
+    "email": "michael.chen@example.com",
+    "role": "Designer",
+    "avatar": "https://i.pravatar.cc/150?img=3"
+  },
+  {
+    "id": 4,
+    "name": "Emily Rodriguez",
+    "email": "emily.rodriguez@example.com",
+    "role": "Product Manager",
+    "avatar": "https://i.pravatar.cc/150?img=4"
+  },
+  {
+    "id": 5,
+    "name": "David Kim",
+    "email": "david.kim@example.com",
+    "role": "Developer",
+    "avatar": "https://i.pravatar.cc/150?img=5"
+  },
+  {
+    "id": 6,
+    "name": "Jessica Martinez",
+    "email": "jessica.martinez@example.com",
+    "role": "Marketing",
+    "avatar": "https://i.pravatar.cc/150?img=6"
+  },
+  {
+    "id": 7,
+    "name": "James Anderson",
+    "email": "james.anderson@example.com",
+    "role": "Developer",
+    "avatar": "https://i.pravatar.cc/150?img=7"
+  },
+  {
+    "id": 8,
+    "name": "Lisa Thompson",
+    "email": "lisa.thompson@example.com",
+    "role": "Designer",
+    "avatar": "https://i.pravatar.cc/150?img=8"
+  },
+  {
+    "id": 9,
+    "name": "Robert Garcia",
+    "email": "robert.garcia@example.com",
+    "role": "Sales",
+    "avatar": "https://i.pravatar.cc/150?img=9"
+  },
+  {
+    "id": 10,
+    "name": "Amanda Lee",
+    "email": "amanda.lee@example.com",
+    "role": "Support",
+    "avatar": "https://i.pravatar.cc/150?img=10"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Bluetooth Headphones",
+    "description": "Premium noise-cancelling headphones with 30-hour battery life. Perfect for music lovers and frequent travelers. Features include active noise cancellation, comfortable over-ear design, and crisp, clear audio quality.",
+    "price": 149.99,
+    "category": "Electronics",
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=300&fit=crop"
+  },
+  {
+    "id": 2,
+    "name": "Organic Cotton T-Shirt",
+    "description": "Soft, breathable, and eco-friendly cotton t-shirt. Available in multiple colors and sizes. Made from 100% organic cotton with a comfortable, relaxed fit.",
+    "price": 24.99,
+    "category": "Clothing",
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400&h=300&fit=crop"
+  },
+  {
+    "id": 3,
+    "name": "The Art of Programming",
+    "description": "A comprehensive guide to modern software development practices. Learn essential programming concepts, design patterns, and best practices from industry experts.",
+    "price": 39.99,
+    "category": "Books",
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=400&h=300&fit=crop"
+  },
+  {
+    "id": 4,
+    "name": "Smart LED Desk Lamp",
+    "description": "Modern desk lamp with adjustable brightness and color temperature. Features touch controls, USB charging port, and energy-efficient LED bulbs. Perfect for your home office or study.",
+    "price": 45.99,
+    "category": "Home",
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=400&h=300&fit=crop"
+  },
+  {
+    "id": 5,
+    "name": "Mechanical Gaming Keyboard",
+    "description": "RGB backlit mechanical keyboard with customizable keys and macro support. Cherry MX switches provide tactile feedback and durability for millions of keystrokes.",
+    "price": 129.99,
+    "category": "Electronics",
+    "inStock": false,
+    "imageUrl": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=400&h=300&fit=crop"
+  },
+  {
+    "id": 6,
+    "name": "Denim Jacket",
+    "description": "Classic denim jacket with modern fit. Timeless style that pairs well with any outfit. Made from durable denim fabric with metal buttons and multiple pockets.",
+    "price": 79.99,
+    "category": "Clothing",
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=400&h=300&fit=crop"
+  },
+  {
+    "id": 7,
+    "name": "JavaScript: The Definitive Guide",
+    "description": "The comprehensive guide to JavaScript programming. Covers everything from basics to advanced topics, including ES6+ features, async programming, and modern frameworks.",
+    "price": 54.99,
+    "category": "Books",
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&h=300&fit=crop"
+  },
+  {
+    "id": 8,
+    "name": "Ceramic Coffee Mug Set",
+    "description": "Set of 4 handcrafted ceramic mugs. Microwave and dishwasher safe. Each mug holds 12oz and features a comfortable handle and unique glaze pattern.",
+    "price": 34.99,
+    "category": "Home",
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?w=400&h=300&fit=crop"
+  },
+  {
+    "id": 9,
+    "name": "Portable Power Bank 20000mAh",
+    "description": "High-capacity power bank with dual USB ports and fast charging. Keep your devices powered on the go. Features LED battery indicator and supports multiple charging protocols.",
+    "price": 39.99,
+    "category": "Electronics",
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=400&h=300&fit=crop"
+  },
+  {
+    "id": 10,
+    "name": "Running Shoes",
+    "description": "Lightweight running shoes with excellent cushioning and support. Breathable mesh upper and durable rubber outsole. Perfect for daily runs and workouts.",
+    "price": 89.99,
+    "category": "Clothing",
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400&h=300&fit=crop"
+  },
+  {
+    "id": 11,
+    "name": "Learning React",
+    "description": "Master React.js with this hands-on guide. Learn hooks, state management, routing, and how to build modern web applications. Includes real-world projects and examples.",
+    "price": 44.99,
+    "category": "Books",
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?w=400&h=300&fit=crop"
+  },
+  {
+    "id": 12,
+    "name": "Minimalist Wall Clock",
+    "description": "Sleek, modern wall clock with silent quartz movement. Perfect for any room in your home or office. Features a clean design with clear numbers and slim hands.",
+    "price": 29.99,
+    "category": "Home",
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?w=400&h=300&fit=crop"
+  },
+  {
+    "id": 13,
+    "name": "Wireless Mouse",
+    "description": "Ergonomic wireless mouse with adjustable DPI settings. 2.4GHz connection provides reliable performance. Comfortable grip for extended use and long battery life.",
+    "price": 24.99,
+    "category": "Electronics",
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=400&h=300&fit=crop"
+  },
+  {
+    "id": 14,
+    "name": "Hoodie Sweatshirt",
+    "description": "Cozy pullover hoodie made from soft cotton blend. Features drawstring hood, kangaroo pocket, and ribbed cuffs. Perfect for casual wear and staying warm.",
+    "price": 49.99,
+    "category": "Clothing",
+    "inStock": false,
+    "imageUrl": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=400&h=300&fit=crop"
+  },
+  {
+    "id": 15,
+    "name": "Clean Code",
+    "description": "A handbook of agile software craftsmanship. Learn how to write code that is easy to read, maintain, and extend. Essential reading for all developers.",
+    "price": 42.99,
+    "category": "Books",
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1589998059171-988d887df646?w=400&h=300&fit=crop"
+  },
+  {
+    "id": 16,
+    "name": "Scented Candle Set",
+    "description": "Set of 3 premium soy wax candles in relaxing scents: lavender, vanilla, and eucalyptus. Burns clean for up to 40 hours each. Perfect for creating a cozy atmosphere.",
+    "price": 32.99,
+    "category": "Home",
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1602874801006-2c4a51c9b1f5?w=400&h=300&fit=crop"
+  },
+  {
+    "id": 17,
+    "name": "USB-C Hub Adapter",
+    "description": "7-in-1 USB-C hub with HDMI, USB 3.0, SD card reader, and more. Expand your laptop's connectivity with this compact adapter. Supports 4K video output.",
+    "price": 35.99,
+    "category": "Electronics",
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1625948515291-69613efd103f?w=400&h=300&fit=crop"
+  },
+  {
+    "id": 18,
+    "name": "Yoga Pants",
+    "description": "High-waisted yoga pants with moisture-wicking fabric. Four-way stretch for maximum flexibility and comfort. Perfect for yoga, running, or everyday wear.",
+    "price": 39.99,
+    "category": "Clothing",
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=400&h=300&fit=crop"
+  },
+  {
+    "id": 19,
+    "name": "Design Patterns",
+    "description": "Elements of reusable object-oriented software. Learn the 23 classic design patterns that have shaped software architecture. A must-read for serious developers.",
+    "price": 49.99,
+    "category": "Books",
+    "inStock": false,
+    "imageUrl": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=400&h=300&fit=crop"
+  },
+  {
+    "id": 20,
+    "name": "Bamboo Cutting Board",
+    "description": "Eco-friendly bamboo cutting board with juice groove. Naturally antimicrobial and gentle on knives. Large size perfect for meal prep. Easy to clean and maintain.",
+    "price": 27.99,
+    "category": "Home",
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1556909212-d5b604d0c90d?w=400&h=300&fit=crop"
+  }
+]
