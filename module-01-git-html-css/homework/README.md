@@ -3,11 +3,11 @@
 **Difficulty:** ⭐⭐ Beginner-Intermediate
 **Estimated Time:** 2-3 hours
 
-## 🎯 Assignment Overview
+## Assignment Overview
 
 Create a personal profile web page about yourself using HTML and CSS. This page should introduce you, showcase your interests, and demonstrate the HTML and CSS skills you've learned in Module 1.
 
-## 📋 Requirements
+## Requirements
 
 Your profile page must include:
 
@@ -32,14 +32,14 @@ Your profile page must include:
 - [ ] Border on at least one element
 - [ ] The page content should be centered or have a maximum width
 
-## 📂 Files to Complete
+## Files to Complete
 
 You'll work with these files in the `starter/` folder:
 - `index.html` - Add your HTML content
 - `styles.css` - Add your CSS styling
 - `images/placeholder-avatar.png` - A placeholder image (you can use this or add your own)
 
-## 🚀 Getting Started
+## Getting Started
 
 1. **Navigate to the starter folder:**
    ```bash
@@ -54,7 +54,7 @@ You'll work with these files in the `starter/` folder:
 
 4. **Test frequently** as you work - don't wait until the end!
 
-## ✅ Testing Your Work
+## Testing Your Work
 
 Run the automated tests to check your progress:
 
@@ -71,7 +71,7 @@ The tests will check for:
 
 **Note:** Don't worry if tests fail at first! They're designed to guide you. Read the error messages carefully - they tell you exactly what's missing.
 
-## 💡 Tips for Success
+## Tips for Success
 
 ### HTML Tips
 - Start with the structure, then add content
@@ -91,7 +91,7 @@ The tests will check for:
 - **Read the test output** carefully if tests fail
 - **Make it yours!** Add your personality to the page
 
-## 🎨 Content Ideas
+## Content Ideas
 
 Not sure what to write about? Try including:
 
@@ -112,7 +112,7 @@ Not sure what to write about? Try including:
 - Favorite places you've visited
 - Favorite websites or apps
 
-## 🚀 Bonus Challenges
+## Bonus Challenges
 
 Once you pass all the tests, try these extra challenges:
 
@@ -124,7 +124,7 @@ Once you pass all the tests, try these extra challenges:
 6. **Box shadow** - Add depth with `box-shadow` on cards or the main content area
 7. **Responsive spacing** - Use `max-width` and `margin: 0 auto` to center content
 
-## 📤 Submitting Your Work
+## Submitting Your Work
 
 1. **Make sure all tests pass:**
    ```bash
@@ -146,7 +146,7 @@ Once you pass all the tests, try these extra challenges:
 
 Your teacher will review your code on GitHub and provide feedback!
 
-## ❓ Common Issues
+## Common Issues
 
 ### Tests fail even though my page looks right
 
@@ -171,7 +171,7 @@ The tests check for specific requirements (like certain HTML elements). Make sur
 - Make sure you're in the project root directory
 - Check that you saved your files before running tests
 
-## 📚 Resources
+## Resources
 
 - [Lesson 1: Git Basics](../lessons/01-git-basics.md)
 - [Lesson 2: HTML Fundamentals](../lessons/02-html-fundamentals.md)
@@ -180,7 +180,7 @@ The tests check for specific requirements (like certain HTML elements). Make sur
 - [CSS Cheatsheet](../../resources/cheatsheets/css-reference.md)
 - [Common Errors Guide](../../resources/common-errors.md)
 
-## ✨ Example Structure
+## Example Structure
 
 Here's a rough outline of what your page might look like (but make it your own!):
 

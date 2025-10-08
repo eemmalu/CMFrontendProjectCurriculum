@@ -3,11 +3,11 @@
 **Difficulty:** ⭐ Beginner
 **Estimated Time:** 30 minutes
 
-## 🎯 Objective
+## Objective
 
 Create a simple "About Books" web page using HTML elements you've learned.
 
-## 📋 Instructions
+## Instructions
 
 1. **Open `index.html`** in this directory
 
@@ -35,7 +35,7 @@ Create a simple "About Books" web page using HTML elements you've learned.
    git push
    ```
 
-## ✅ Success Criteria
+## Success Criteria
 
 Your page should have:
 - [ ] A proper HTML5 document structure (`<!DOCTYPE>`, `<html>`, `<head>`, `<body>`)
@@ -46,7 +46,7 @@ Your page should have:
 - [ ] At least one link
 - [ ] Proper indentation (makes code easier to read!)
 
-## 💡 Learning Goals
+## Learning Goals
 
 This exercise helps you:
 - Practice HTML document structure
@@ -54,7 +54,7 @@ This exercise helps you:
 - See your HTML rendered in a browser
 - Build confidence creating web pages from scratch
 
-## 🚀 Bonus Challenges
+## Bonus Challenges
 
 Want to go further? Try adding:
 - An ordered list of your top 3 books ranked
@@ -63,7 +63,7 @@ Want to go further? Try adding:
 - More semantic elements like `<section>` or `<article>`
 - Comments in your HTML to label different sections
 
-## 💡 Tips
+## Tips
 
 - **Indent your code** to make it easier to read:
   ```html
@@ -81,7 +81,7 @@ Want to go further? Try adding:
   - Save the file
   - Refresh the browser (Cmd/Ctrl + R)
 
-## ❓ Example Output
+## Example Output
 
 Your page doesn't need to look exactly like this, but here's an example:
 

@@ -3,11 +3,11 @@
 **Difficulty:** ⭐ Beginner
 **Estimated Time:** 15 minutes
 
-## 🎯 Objective
+## Objective
 
 Practice the basic Git workflow: making changes, staging, committing, and pushing to GitHub.
 
-## 📋 Instructions
+## Instructions
 
 1. **Make a change** to the `practice-file.txt` in this directory
    - Add your name on the first line
@@ -56,21 +56,21 @@ Practice the basic Git workflow: making changes, staging, committing, and pushin
    - Navigate to this file
    - You should see your changes!
 
-## ✅ Success Criteria
+## Success Criteria
 
 You'll know you succeeded when:
 - [ ] You can see your commit on GitHub
 - [ ] The `practice-file.txt` shows your name, favorite language, and date
 - [ ] You understand the workflow: change → add → commit → push
 
-## 💡 Learning Goals
+## Learning Goals
 
 This exercise helps you:
 - Practice the Git workflow you'll use for all assignments
 - Understand what `git status`, `git add`, and `git commit` do
 - Get comfortable with the command line
 
-## 🚀 Bonus Challenge
+## Bonus Challenge
 
 Try these additional Git commands:
 
@@ -85,7 +85,7 @@ git log --oneline
 git blame practice-file.txt
 ```
 
-## ❓ Troubleshooting
+## Troubleshooting
 
 **Problem:** `git push` asks for a password
 

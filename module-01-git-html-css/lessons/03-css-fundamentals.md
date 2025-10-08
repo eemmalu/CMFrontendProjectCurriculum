@@ -1,6 +1,6 @@
 # Lesson 3: CSS Fundamentals
 
-## 🎯 Learning Objectives
+## Learning Objectives
 
 By the end of this lesson, you will:
 - Understand what CSS is and how it works

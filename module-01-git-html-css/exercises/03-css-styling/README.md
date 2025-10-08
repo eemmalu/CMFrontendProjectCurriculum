@@ -3,11 +3,11 @@
 **Difficulty:** ⭐⭐ Beginner-Intermediate
 **Estimated Time:** 30 minutes
 
-## 🎯 Objective
+## Objective
 
 Practice CSS styling by adding colors, fonts, spacing, and layout to a pre-built HTML page.
 
-## 📋 Instructions
+## Instructions
 
 1. **Open `index.html`** in your browser to see the unstyled page
 
@@ -32,7 +32,7 @@ Practice CSS styling by adding colors, fonts, spacing, and layout to a pre-built
    git push
    ```
 
-## ✅ Success Criteria
+## Success Criteria
 
 Your styled page should have:
 - [ ] A background color on the body
@@ -43,7 +43,7 @@ Your styled page should have:
 - [ ] A visible border around the card
 - [ ] The card centered on the page
 
-## 💡 Learning Goals
+## Learning Goals
 
 This exercise helps you:
 - Practice CSS selectors
@@ -51,7 +51,7 @@ This exercise helps you:
 - Apply colors and typography
 - See the immediate visual impact of CSS
 
-## 🚀 Bonus Challenges
+## Bonus Challenges
 
 Try these additional styling touches:
 - Add a hover effect to the link (changes color when you hover over it)
@@ -66,7 +66,7 @@ Try these additional styling touches:
 - Add a background image to the body
 - Use a custom font from [Google Fonts](https://fonts.google.com/)
 
-## 💡 Tips
+## Tips
 
 - **Use your browser's developer tools:**
   - Right-click on any element and choose "Inspect"
@@ -88,7 +88,7 @@ Try these additional styling touches:
   - Or hex codes: `#3498db`, `#e74c3c`, `#2ecc71`
   - Or RGB: `rgb(52, 152, 219)`
 
-## ❓ Example Styles
+## Example Styles
 
 Here are some example styles to inspire you (but don't just copy these - experiment!):
 
@@ -123,7 +123,7 @@ a:hover {
 }
 ```
 
-## 🎨 Design Principles
+## Design Principles
 
 Keep these principles in mind:
 - **Contrast:** Make sure text is readable against the background
