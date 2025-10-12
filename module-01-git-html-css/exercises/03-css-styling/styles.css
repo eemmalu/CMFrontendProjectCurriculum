@@ -1,65 +1,70 @@
 /* TODO: Set a background color for the body */
 body {
-
+    background-color: pink;
 }
 
 /* TODO: Style the card container */
 .card {
     /* Add a max-width so it doesn't get too wide */
+    max-width: 400px;
 
     /* Center it with margin: 0 auto */
+    margin: 0 auto;
 
     /* Add padding inside the card */
+    padding: 16px;
 
     /* Add a background color */
+    background-color: rgb(255, 243, 233);
 
     /* Add a border */
+    border: 2px solid black;
 
 }
 
 /* TODO: Style the h1 heading */
 h1 {
     /* Change the color */
+    color: darkblue;
 
     /* Change the font size if you want */
-
+    font-size: 34px;
 }
 
 /* TODO: Style the h2 headings */
 h2 {
     /* Change the color */
-
+    color: darkgreen;
 }
 
 /* TODO: Style paragraphs */
 p {
     /* Add line-height for readability (try 1.6) */
-
-    /* Change the color if you want */
-
+    line-height: 1.6;
 }
 
 /* TODO: Style the intro paragraph specifically */
 .intro {
     /* Make it stand out - maybe larger font or different color */
-
+    font-size: 20px;
 }
 
 /* TODO: Style links */
 a {
     /* Change the color */
-
+    color: blue;
     /* Remove underline with text-decoration: none; or keep it */
+    text-decoration: none;
 
 }
 
 /* BONUS: Add a hover effect for links */
 a:hover {
-
+    color: lightblue;
 }
 
 /* TODO: Style list items if you want */
 li {
     /* Add some margin-bottom for spacing */
-
+    
 }
