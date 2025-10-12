@@ -1,3 +1,3 @@
-TODO: Add your name here
-TODO: Add your favorite programming language here
-TODO: Add today's date here
+Name: Emma
+Favorite programming language: Python
+Date: 10/12/2025
