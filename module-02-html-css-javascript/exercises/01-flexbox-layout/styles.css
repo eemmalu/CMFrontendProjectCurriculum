@@ -16,10 +16,13 @@ body {
     padding: 1rem 2rem;
 
     /* TODO: Add display: flex here */
+    display: flex;
 
     /* TODO: Add justify-content to space items apart */
+    justify-content: space-between;
 
     /* TODO: Add align-items to center items vertically */
+    align-items: center;
 }
 
 /* TODO: Style the logo */
@@ -34,8 +37,10 @@ body {
     list-style: none;
 
     /* TODO: Make the links display in a row using Flexbox */
+    display: flex;
 
     /* TODO: Add gap or spacing between links */
+    gap: 20px;
 }
 
 .nav-links a {
@@ -81,3 +86,21 @@ body {
 .content ul {
     margin-left: 2rem;
 }
+
+/* .layer {
+    background-color: rgb(255, 222, 229);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    gap: 20px;
+}
+
+.blue-box {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(108, 157, 255);
+    border: 2px solid black;
+} */
+
