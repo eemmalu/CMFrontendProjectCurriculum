@@ -27,10 +27,22 @@ function addItem(name, quantity) {
     // - name: the item name
     // - quantity: the quantity
     // - purchased: false (new items aren't purchased yet)
+    let newItem = {
+        id: nextId,
+        name: name,
+        quantity: quantity,
+        purchased: false,
+    };
+
+    // [{id: 4, name: "candy", quantity: 1, purchased: false},
+    //  {id: 1, name: "milk", quantity: 2, purchased: false}]
 
     // Add the object to the shoppingList array
+    shoppingList.push(newItem);
+    nextId += 1;
 
     // Render the list
+    renderList();
 
     // Clear the inputs
     itemNameInput.value = '';
@@ -41,18 +53,29 @@ function addItem(name, quantity) {
 function togglePurchased(id) {
     // Find the item in the array with matching id
     // Hint: Use array.find() method
+    let targetItem = shoppingList.find(function(item) {
+        return id === item.id;
+    });
 
     // Toggle its purchased property (true ↔ false)
+    targetItem.purchased = !targetItem.purchased;
 
     // Render the list
+    renderList();
 }
 
 // TODO: Function to delete an item
 function deleteItem(id) {
     // Remove the item from the array
     // Hint: Use array.filter() to keep all items except the one with this id
+    let newList = shoppingList.filter(function(item) {
+        return item.id != id;
+    })
+
+    shoppingList = newList;
 
     // Render the list
+    renderList();
 }
 
 // TODO: Function to render the shopping list
@@ -66,9 +89,15 @@ function renderList() {
     if (currentFilter === 'purchased') {
         // TODO: Filter to show only purchased items
         // Hint: Use array.filter() where item.purchased === true
+        filteredItems = shoppingList.filter(function(item) {
+            return item.purchased === true;
+        });
     } else if (currentFilter === 'unpurchased') {
         // TODO: Filter to show only unpurchased items
         // Hint: Use array.filter() where item.purchased === false
+        filteredItems = shoppingList.filter(function(item) {
+            return item.purchased !== true;
+        });
     }
 
     // Loop through filtered items and create DOM elements
@@ -167,8 +196,8 @@ showUnpurchasedBtn.addEventListener('click', function() {
 renderList();
 
 // Test data (uncomment to test)
-/*
+
 addItem('Milk', 2);
 addItem('Bread', 1);
 addItem('Eggs', 12);
-*/
+
